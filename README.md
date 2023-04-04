@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Web Developement
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate and review code. 
-- Currently at 13% of the Codecademy Front End Web Dev Track.
+- Currently at 19% of the Codecademy Front End Web Dev Track.
 - 📫 How to reach me, im on twitter @Maide50888576 
 
 <!---
